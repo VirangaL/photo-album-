@@ -1,0 +1,11 @@
+Attribute	Values
+title	'true'/'false'
+name	'true'/'false'
+size	'true'/'false'
+description	'true'/'false'
+location	'true'/'false'
+date	'true'/'false'
+orientation	'true'/'false'
+type	'true'/'false'
+album	'true'/'false'
+dimensions	'true'/'false'
