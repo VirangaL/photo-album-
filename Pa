@@ -1,0 +1,5 @@
+AlbumsList.getAlbumList({
+  count: true,
+  thumbnail: false,
+  thumbnailDimensions: false
+}).then(list => console.log(list));
