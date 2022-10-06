@@ -1,0 +1,12 @@
+AlbumsList.getImageList({
+  title: true,
+  name: false,
+  size: true,
+  description: true,
+  location: false,
+  date: true,
+  orientation: true,
+  type: false,
+  album: true,
+  dimensions: false
+}).then(list => console.log(list));
